@@ -1,0 +1,410 @@
+{
+  "watches": [
+    {
+      "id": "nw001",
+      "brand": "Casio",
+      "model": "F91W-1",
+      "name": "Casio F91W-1",
+      "price": {
+        "oldPrice": 19.95,
+        "newPrice": 14.95,
+        "discount": 5.00
+      },
+      "rating": 4.2,
+      "watchType": "Unisex",
+      "imageUrl": "https://qph.cf2.quoracdn.net/main-qimg-4f27b9f11ebc53b6ecce56d190d0f6f9"
+    },
+    {
+      "id": "nw002",
+      "brand": "Rolex",
+      "model": "Submariner",
+      "name": "Rolex Submariner",
+      "price": {
+        "oldPrice": 7999.00,
+        "newPrice": 7499.00,
+        "discount": 500.00
+      },
+      "rating": 4.9,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_Ztcpx_tUoiQNBB5hp228eE3iyq0O8TcbQ&s"
+    },
+    {
+      "id": "nw003",
+      "brand": "Timex",
+      "model": "Expedition",
+      "name": "Timex Expedition",
+      "price": {
+        "oldPrice": 69.95,
+        "newPrice": 59.95,
+        "discount": 10.00
+      },
+      "rating": 4.4,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4i4ppgS3aOxxmRZZucyRJz6TeAPxmsPYUPw&s"
+    },
+    {
+      "id": "nw004",
+      "brand": "Michael Kors",
+      "model": "MK3190",
+      "name": "Michael Kors MK3190",
+      "price": {
+        "oldPrice": 229.00,
+        "newPrice": 199.00,
+        "discount": 30.00
+      },
+      "rating": 4.6,
+      "watchType": "Girls",
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRgjIn7UccI1v6-gltF0CPElCtO8-yke9mRxu916HE_T0QBQEr0dW5l3xnKFQbZx_XJZfoixW_Jl-SePfgwP-l2UBa_-lSYeKZx09RSwTL8&usqp=CAE"
+    },
+    {
+      "id": "nw005",
+      "brand": "Fossil",
+      "model": "Grant Chronograph",
+      "name": "Fossil Grant Chronograph",
+      "price": {
+        "oldPrice": 139.00,
+        "newPrice": 119.00,
+        "discount": 20.00
+      },
+      "rating": 4.3,
+      "watchType": "Boys",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS5Ciy0kqnzagQ0zAQX80AeM4_eXulHLQ6Hp9fTjAAAoHL1mBd61S_IOJ9_-L80BxCkJHMa9LCWKWj4UHHIJ8ALBrbN5l6Bhe1kZyQo-f2lApOwBQrNdnT5WA&usqp=CAE"
+    },
+    {
+      "id": "nw006",
+      "brand": "Seiko",
+      "model": "Prospex Diver",
+      "name": "Seiko Prospex Diver",
+      "price": {
+        "oldPrice": 349.00,
+        "newPrice": 299.00,
+        "discount": 50.00
+      },
+      "rating": 4.8,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSGKaEtgESPyPK1b6AQjV0fkAZLvR2spEKrKkE1a0lGTscLGS-QZf_47i9Aw5Sf-MZeQQ_dF8sLPMvEJYiN5uhU0Mgff8Mo3FnFErRDcv7GCwaU6F0lm8b62Q&usqp=CAE"
+    },
+    {
+      "id": "nw007",
+      "brand": "Citizen",
+      "model": "Eco-Drive Chronograph",
+      "name": "Citizen Eco-Drive Chronograph",
+      "price": {
+        "oldPrice": 299.00,
+        "newPrice": 279.00,
+        "discount": 20.00
+      },
+      "rating": 4.7,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspTIh8Xv-_TJAeXPNyhyzItbXXEfn0bSGaw&s"
+    },
+    {
+      "id": "nw008",
+      "brand": "Bulova",
+      "model": "Precisionist",
+      "name": "Bulova Precisionist",
+      "price": {
+        "oldPrice": 399.00,
+        "newPrice": 349.00,
+        "discount": 50.00
+      },
+      "rating": 4.6,
+      "watchType": "Boys",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRG2ui_x82gAyMKU1v2deIwGTFy1_QUezhNXziOjcYYZelMEhBWSFyA0_dmNI9Ma0at7EM0vM0JBF_mtD7U1jUdtL1Fytd6QbaovAba9IwD-BZ8TaR7wtXmPA&usqp=CAE"
+    },
+    {
+      "id": "nw009",
+      "brand": "Tissot",
+      "model": "T-Touch Expert Solar",
+      "name": "Tissot T-Touch Expert Solar",
+      "price": {
+        "oldPrice": 575.00,
+        "newPrice": 525.00,
+        "discount": 50.00
+      },
+      "rating": 4.5,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKIZCyRIgV2TM4mcYHv5bMfuvNONPFpTFRg&s"
+    },
+    {
+      "id": "nw010",
+      "brand": "Omega",
+      "model": "Speedmaster Moonwatch",
+      "name": "Omega Speedmaster Moonwatch",
+      "price": {
+        "oldPrice": 6395.00,
+        "newPrice": 5995.00,
+        "discount": 400.00
+      },
+      "rating": 4.9,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPpcliR5vk_QoPdYjNnctFeqEMCCWvyc5UA&s"
+    },
+    {
+      "id": "nw011",
+      "brand": "Hamilton",
+      "model": "Khaki Field",
+      "name": "Hamilton Khaki Field",
+      "price": {
+        "oldPrice": 545.00,
+        "newPrice": 495.00,
+        "discount": 50.00
+      },
+      "rating": 4.4,
+      "watchType": "Boys",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXRjxTmuYNsC2L5GJZfOGUGUT72B3lQSJKg&s"
+    },
+    {
+      "id": "nw012",
+      "brand": "Longines",
+      "model": "Master Collection",
+      "name": "Longines Master Collection",
+      "price": {
+        "oldPrice": 1295.00,
+        "newPrice": 1195.00,
+        "discount": 100.00
+      },
+      "rating": 4.7,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7I_LKrwxn1g034iq-lh2CV1d0xOpgcyJK1g&s"
+    },
+    {
+      "id": "nw013",
+      "brand": "Movado",
+      "model": "Museum Classic",
+      "name": "Movado Museum Classic",
+      "price": {
+        "oldPrice": 895.00,
+        "newPrice": 845.00,
+        "discount": 50.00
+      },
+      "rating": 4.6,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSorkCFWGBHfdLPz976RC-iYoJBpQx_Wp2yrw&s"
+    },
+    {
+      "id": "nw014",
+      "brand": "Nixon",
+      "model": "The Sentry",
+      "name": "Nixon The Sentry",
+      "price": {
+        "oldPrice": 150.00,
+        "newPrice": 130.00,
+        "discount": 20.00
+      },
+      "rating": 4.3,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmv1hlrraCXxy_l9rZDB2-duFgklVVNtYPrQ&s"
+    },
+    {
+      "id": "nw015",
+      "brand": "Armani Exchange",
+      "model": "AX2149",
+      "name": "Armani Exchange AX2149",
+      "price": {
+        "oldPrice": 179.00,
+        "newPrice": 159.00,
+        "discount": 20.00
+      },
+      "rating": 4.4,
+      "watchType": "Girls",
+      "imageUrl": "https://media2.thewatchagency.com/images/listing-medium-o/ab/armani-exchange-AX7147SET.jpg"
+    },
+    {
+      "id": "nw016",
+      "brand": "Swatch",
+      "model": "Irony Chrono",
+      "name": "Swatch Irony Chrono",
+      "price": {
+        "oldPrice": 125.00,
+        "newPrice": 105.00,
+        "discount": 20.00
+      },
+      "rating": 4.2,
+      "watchType": "Unisex",
+      "imageUrl": "https://images-cdn.ubuy.co.in/6656a1ad42a21c591052bdb1-new-swatch-irony-chronograph-full.jpg"
+    },
+    {
+      "id": "nw017",
+      "brand": "Bering",
+      "model": "Classic",
+      "name": "Bering Classic",
+      "price": {
+        "oldPrice": 219.00,
+        "newPrice": 189.00,
+        "discount": 30.00
+      },
+      "rating": 4.5,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1O_Iq6naQIMJoN-4ScvA7wi52gRBojlD5f-DA3ssLXUhoeLOOY8LRoKdGS62NrzzXxnLMwWWqkTuKE_65JUMG1D62PAHDZrMxtOXILaA&usqp=CAE"
+    },
+    {
+      "id": "nw018",
+      "brand": "Fossil",
+      "model": "Q Grant",
+      "name": "Fossil Q Grant",
+      "price": {
+        "oldPrice": 149.00,
+        "newPrice": 129.00,
+        "discount": 20.00
+      },
+      "rating": 4.3,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHlyhsyxXgvviVGElMKIeU_n4P5Hi_MjksQ&s"
+    },
+    {
+      "id": "nw019",
+      "brand": "Diesel",
+      "model": "DZ4476",
+      "name": "Diesel DZ4476",
+      "price": {
+        "oldPrice": 329.00,
+        "newPrice": 299.00,
+        "discount": 30.00
+      },
+      "rating": 4.4,
+      "watchType": "Boys",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTkzVVx1cyR8cAZeqUGl1I492mcIC2cfZH1A_Lmfm4Rdbj2pGSXWD0-4YisfeiUq8AU8sgC-eF9uXAXYm3_ZlejBQ6zRphr3HWnl8Tx_ldyfSIYwIWfazKz&usqp=CAE"
+    },
+    {
+      "id": "nw020",
+      "brand": "TAG Heuer",
+      "model": "Carrera Calibre 16",
+      "name": "TAG Heuer Carrera Calibre 16",
+      "price": {
+        "oldPrice": 2900.00,
+        "newPrice": 2695.00,
+        "discount": 205.00
+      },
+      "rating": 4.8,
+      "watchType": "Unisex",
+      "imageUrl": "https://m.media-amazon.com/images/I/61CuCywNBHL._AC_SL1000_.jpg"
+    },
+    {
+      "id": "nw021",
+      "brand": "Panerai",
+      "model": "Luminor Marina",
+      "name": "Panerai Luminor Marina",
+      "price": {
+        "oldPrice": 7200.00,
+        "newPrice": 6750.00,
+        "discount": 450.00
+      },
+      "rating": 4.7,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6faVIgU6u0Oaobp3UyDX9k7pnDbiw7sjxCw&s"
+    },
+    {
+      "id": "nw022",
+      "brand": "Breitling",
+      "model": "Navitimer B01",
+      "name": "Breitling Navitimer B01",
+      "price": {
+        "oldPrice": 7600.00,
+        "newPrice": 7100.00,
+        "discount": 500.00
+      },
+      "rating": 4.6,
+      "watchType": "Unisex",
+      "imageUrl": "https://www.gregoryjewellers.com.au/wp-content/uploads/2024/04/Breitling-ab0137211c1a1-navitimer-b01-chronograph-46-soldier.jpg"
+    },
+    {
+      "id": "nw023",
+      "brand": "IWC",
+      "model": "Big Pilot's Watch",
+      "name": "IWC Big Pilot's Watch",
+      "price": {
+        "oldPrice": 8900.00,
+        "newPrice": 8450.00,
+        "discount": 450.00
+      },
+      "rating": 4.9,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRuEzmcG_559VaJXWTjWFP5mYidy5oyM3Kw&s"
+    },
+    {
+      "id": "nw024",
+      "brand": "Hublot",
+      "model": "Big Bang Unico",
+      "name": "Hublot Big Bang Unico",
+      "price": {
+        "oldPrice": 10400.00,
+        "newPrice": 9950.00,
+        "discount": 450.00
+      },
+      "rating": 4.5,
+      "watchType": "Unisex",
+      "imageUrl": "https://swisswatches-magazine.com/wp-content/uploads/2023/07/HUBLOT-BigBang-Unico-Bucherer-Limited-Edition-Novelty-2023.jpg"
+    },
+    {
+      "id": "nw025",
+      "brand": "Tag Heuer",
+      "model": "Aquaracer",
+      "name": "Tag Heuer Aquaracer",
+      "price": {
+        "oldPrice": 1900.00,
+        "newPrice": 1650.00,
+        "discount": 250.00
+      },
+      "rating": 4.4,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQmi2u1_VUlhnqMGsg8jZZjWQQTQUNEjbddsZs7n3Dsi9BlMfEEn5U2d7iBR1JK81CQWQAOVU2np-Bd_YtP6rEp2f6Fb0IqG_gUYjGjjTyrVCs-ANMDwK5Dg&usqp=CAE"
+    },
+    {
+      "id": "nw026",
+      "brand": "Omega",
+      "model": "Seamaster Diver 300M",
+      "name": "Omega Seamaster Diver 300M",
+      "price": {
+        "oldPrice": 5300.00,
+        "newPrice": 4995.00,
+        "discount": 305.00
+      },
+      "rating": 4.8,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR938tEkri-mHafsQpiMPntbmgMmZNK1QtWqnVCocKX2V2XLoAyAw-Owd5tM_M1jM4FLlKCk3clmzU_0cm8xs3DNdoOxEANdwBkHQbrCs1qScTvJKbc7BTp&usqp=CAE"
+    },
+    {
+      "id": "nw027",
+      "brand": "Bulgari",
+      "model": "Serpenti",
+      "name": "Bulgari Serpenti",
+      "price": {
+        "oldPrice": 3200.00,
+        "newPrice": 2900.00,
+        "discount": 300.00
+      },
+      "rating": 4.7,
+      "watchType": "Girls",
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRzcpyuDgOR3zyWKSK9m26GCjdzYj-_khR4CRFZ6FWIQC4E9j-Eczlnj9R_Pn6RDqaTkW5rj1yceeD1CbcnEQdaiaPhrn6zjNgqoCPGuJCA&usqp=CAE"
+    },
+    {
+      "id": "nw028",
+      "brand": "Panerai",
+      "model": "Submersible",
+      "name": "Panerai Submersible",
+      "price": {
+        "oldPrice": 7800.00,
+        "newPrice": 7250.00,
+        "discount": 550.00
+      },
+      "rating": 4.6,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQAr2KxjTgHv9ovNj5-LAybpYlj-AAeJ9CcMFG8BWY5ubbv2soLKddmW1hzBdaQ--koewpBfQGucI8-LkGfNSjgJ9wGNoS1aI4zcs0YN3M&usqp=CAE"
+    },
+    {
+      "id": "nw029",
+      "brand": "Richard Mille",
+      "model": "RM 011",
+      "name": "Richard Mille RM 011",
+      "price": {
+        "oldPrice": 155000.00,
+        "newPrice": 145000.00,
+        "discount": 10000.00
+      },
+      "rating": 4.9,
+      "watchType": "Unisex",
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSihvMHQI7aU_hYmAMdkpqBWuVFaddymbzBYYREfHw4BlloiYdWVl_kmYSvm9Pie_zFe3s9cyCync3qgoDPppUWSw-dyUcvNnqBIM-lOtPKyWlqf34-qThQ&usqp=CAE"
+    }
+  ]
+}
